@@ -1,4 +1,4 @@
-# Post1  
+# The Idea behind this Blog    
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 
 ![post_thumbnail](https://github.com/Ayush909/BlogVlogPics/blob/master/Pics/post1.jpg)
