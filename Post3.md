@@ -13,22 +13,3 @@ JavaScript is one of the 3 languages all web developers must learn:
    3. JavaScript to program the behavior of web pages
 
 Web pages are not the only place where JavaScript is used. Many desktop and server programs use JavaScript. Node.js is the best known. Some databases, like MongoDB and CouchDB, also use JavaScript as their programming language.
-
-
-
-### Code
-
-```javascript
-function myFunction(p1, p2)  
-{
-  return p1 * p2;   // The function returns the product of p1 and p2
-}
-var x = myFunction(4, 3);   // Function is called, return value will end up in x
-
-function myFunction(a, b) {
-  return a * b;             // Function returns the product of a and b
-}
-javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
